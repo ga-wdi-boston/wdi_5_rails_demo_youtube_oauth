@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 
 gem 'devise'
+gem 'omniauth-google-oauth2'
 gem 'omniauth-youtube'
 gem 'dotenv-rails'
 

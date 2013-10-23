@@ -12,6 +12,7 @@
 	<%= current_user %>
 <% else %>
 	<%= link_to "Sign in with Google", user_omniauth_authorize_path(:google_oauth2) %>
+	<%= link_to "Sign in with Youtube", user_omniauth_authorize_path(:youtube) %>
 <% end %>
 
 <%= yield %>

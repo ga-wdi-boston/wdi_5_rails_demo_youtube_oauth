@@ -7,6 +7,7 @@ gem 'devise'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-youtube'
 gem 'dotenv-rails'
+gem 'pry-rails'
 
 # Use postgresql as the database for Active Record
 gem 'pg'

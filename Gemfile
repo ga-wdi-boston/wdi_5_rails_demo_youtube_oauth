@@ -5,6 +5,7 @@ gem 'rails', '4.0.0'
 
 gem 'devise'
 gem 'omniauth-youtube'
+gem 'dotenv-rails'
 
 # Use postgresql as the database for Active Record
 gem 'pg'
